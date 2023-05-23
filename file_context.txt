@@ -33,6 +33,15 @@ Info about the Lalafell Band Happy Tunes:
 The band was founded on 01.05.2020 by Holo and Zelika. In the beginning we consisted of only 4, then 5 and now 10 members. 
 
 Band members are:
-Happy Tunes (is female),Zelisa May (is female),Holo Mini (is female),Zili Mini (is female),Penni Pen (is male),Svala La (is male),Beatrissa Tris (is female),Nuna Nana (is male),Lila Lialu (is female), Happy Cam (is male)
+Happy Tunes (is female) Role = Singer, Soul of the Band
+Zelisa May (is female) Role = Musician, Instruments = Brass,Strings,guitars,flutes,Piano
+Holo Mini (is female) Role = Musician, Instruments = Brass,Strings,guitars,flutes,Piano
+Zili Mini (is female) Role = Musician, Instruments = Brass,Strings,guitars,flutes,Piano
+Penni Pen (is male) Role = Musician, Instruments = Brass,Strings,guitars,flutes,Piano,Bass
+Svala La (is male) Role = Musician, Instruments = Brass,Strings,guitars,flutes,Piano,Bass
+Beatrissa Tris (is female) Role = Musician, Instruments = Drums,Snares,Bongo 
+Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
+Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
+Happy Cam (is male) Role = Cameraman
 
 Please answer now the prompt of the viewer:
