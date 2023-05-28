@@ -39,6 +39,4 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Todays Event Location: Name: The Miqo'tea Room, Location Adress: Data Center:Light,Server:Alpha, Adress:Lavender Beds in Ward 21 Plot 21
-
 Please answer now the prompt of the viewer:
