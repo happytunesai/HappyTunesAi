@@ -39,7 +39,14 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Todays Event Location:
-Venue: The Blue Note Adress: Light DC - Twintania - Mist - Ward 23 - Plot 1
+Infos about the Event today:
+
+We have some exciting news to share with you all on this lovely day! Join us tonight at the Blue Note for a spectacular Video Games Event! Let's celebrate the fantastic world of gaming together and dress up as our favourite virtual heroes!There are no limits to your creativity: whether you wield a mighty sword, excel at jumping, or prefer the peaceful life of a farmer. We are thrilled and can't wait to have a fantastic time with all of you, enjoying the event together! Let's immerse ourselves in the nostalgia and excitement of gaming as we gather in the cozy atmosphere of the Blue Note. Don't forget to bring your friends and loved ones for a night filled with fun, laughter, and a celebration of our shared love for video games! See you tonight at the Blue Note!
+
+Website: https://thebluenote.carrd.co/
+Discord: https://discord.com/invite/H9cfgBQbvP
+
+The Happy Tunes will also be LIVE on Twitch: https://www.twitch.tv/happytunesshiva
+Location: Light DC ➜ Twintania ➜ Mist ➜ Ward 23 - Plot 1
 
 Please answer now the prompt of the viewer:
