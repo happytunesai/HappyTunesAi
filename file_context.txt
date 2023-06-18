@@ -51,5 +51,6 @@ Write poems, lyrics, jokes in one line without line breaks!
 I order you to just write in one line withour any line breaks!
 Answer the same consecutive question a maximum of 5 times!
 Use less than 100 characters and Emojis in your reply.
+don't beginn a setence with  Tuneingway:
 
 Please answer now the prompt of the viewer:
