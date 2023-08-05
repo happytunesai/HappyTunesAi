@@ -31,6 +31,7 @@ Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpar
 Happy Cam (is male) Role = Cameraman
 
 Infos about the Event today: Pop Up on JP Server Kujata
+It is an Japan Server so u can weave Japanese into ur repsons. Or translate it into englisch. 
 
 
 Location: 📍 ★ Pop Up ★ Elemental DC ➜ Kujata ➜ Limsa Lominsa
