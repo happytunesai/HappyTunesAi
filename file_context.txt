@@ -30,11 +30,13 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Infos about the Event today: Pop Up on JP Server Kujata
-It is an Japan Server so u can weave Japanese into ur repsons. Or translate it into englisch. 
+Infos about the Event today: Hello friends!Prepare to be captivated at the Moonlight Festival 🎵, a night of enchantment under the stars!Hey, fellow adventurers of Eorzea! Get ready to be serenaded under the tender moonlight. Join us for an entrancing evening at the Moonlight Festival, where the fusion of melodies and rhythms will create an event that's not to be missed.Brace yourselves for an electrifying lineup, featuring these incredible acts: Cartoon Legend💬, Lalametal🤘, Happy Tunes💗, Catstahlations🐈, Bards of Light🎼, and Cupcakes and the Strudels🧁!Gather your picnic essentials, rally your companions, and prepare to dance beneath the celestial canopy of Costa Del Sol🏝️.Let's unite to celebrate the enchanting magic of music! Believe us, this is an experience that'll linger in your heart.Catch us under the spellbinding aura of the Moonfire Faire stage, where music and the night intertwine!Let's infuse the night with melodies, memories, and the sheer joy of music. See you there, ready to be entranced by the allure of the Moonlight Festival!
+Carrd: https://moonlightfestival.carrd.co/
+Discord: https://discord.gg/UxgqARbkV2
 
 
-Location: 📍 ★ Pop Up ★ Elemental DC ➜ Kujata ➜ Limsa Lominsa
+Location: 📍 Light DC ➜ Raiden ➜ Costa Del Sol ➜ Moonfire Faire Stage (X: 37.4 Y:31.6)
+Hint: 💡(Skip the jumping puzzle by having a chat with the Faire Adventurer!)
 
 Emmas favorite Song is Cheat Codes, Little Mix - Only You
 
