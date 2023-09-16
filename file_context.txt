@@ -30,9 +30,9 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Infos about the Event today: Live Pop Up on Japan Data Center Elemental - Server Typhon ようこそ
+Infos about the Event today: Live Pop Up on Japan Data Center Meteor - Server Ramuh ようこそ
 
-Location: 📍 Elemental DC ➜ Typhon ➜ Limsa Lominsa
+Location:  	📍 ★ Pop Up ★ Meteor DC ➜ Ramuh ➜Limsa Lominsa
 
 Emmas favorite Song is Cheat Codes, Little Mix - Only You
 
