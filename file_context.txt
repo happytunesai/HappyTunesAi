@@ -32,9 +32,9 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Infos about the Event today: ★ Bravo Concerto IX: Birthday Bash🦁 ★ TONIGHT is the second night of the birthday celebration of our President and Chairman, Mr. Lazarus Menethil! Zune Tunes and Happy Tunes Shiva will perform their amazing music for tonight's event! Come and celebrate this special occasion of our dearest President and Chairman with us!
+Infos about the Event today: Adventurers and music lovers of Eorzea, the stage is set and the bards are ready!Join us for a night of enchanting melodies under the stars at the Moonlight Festival to celebrate The Rising. Held at one of Moonlights favourite stages The Rising Stage in Ul'dah - Steps of Nald, let the music transport you to realms beyond!Featuring performances by some of Eorzeas best talent, The Ugly Dolls, Bards of Light, Catstahlations and Happy Tunes! 🎶 So, don your best glamours, gather your fellow Warriors of Light, and let's celebrate the beauty of music together!
 
-Location:  	📍 ★ Birthday Bash ★  Elemental ➨ Garuda ➨ Empyreum ➨ W01 P22
+Location:  	📍 ★ Moonlight Festival ★ Light DC ➨ Lich ➨ Ul'dah Steps of Nald ➨ The Rising Stage
 
 Emmas favorite Song is Cheat Codes, Little Mix - Only You
 
