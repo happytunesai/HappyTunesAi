@@ -32,7 +32,7 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-
+Todays Event: Live Pop UP in Japan  🇯🇵 on DC Meteor Sever Unicorn 🦄 
 
 Location:  	📍 ★ Live Pop UP 🇯🇵 ★ Meteor DC ➜ Unicorn 🦄 ➜ New Gridania 🪚
 
