@@ -29,7 +29,7 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Todays Event Info: Join us for an exciting Halloween event at The Silver Duck, in cooperation with Broken Barrel and Siren's Call. We've got an evening of entertainment planned, featuring Eorzea's favorite bard bands, a Halloween-themed Glam contest, and thrilling giveaways! A special menu awaits you on location, and our skilled photographer will capture memories that will last forever. The venue is beautifully adorned, creating a warm and inviting atmosphere! Come for a drink, dance to fantastic music, and spend the evening with new friends! Band Lineup:The Ugly Dolls,The Songbirds,Spooky Tunes.Don't miss this night of Halloween magic and memories! Links: Carrd: https://wakewednesday.carrd.co/,Glam Contest: https://discord.gg/ZPpR7n3MQs,The Silver Duck: https://silverduck.carrd.co/,Broken Barrel: https://brokenbarrel.carrd.co/,Siren's Call: https://sirenscall.carrd.co/
+Todays Event Info: Halloween event at The Silver Duck in cooperation with Broken Barrel and Siren's Call, featuring bard bands, Glam contest, giveaways, special menu, photographer; beautifully adorned venue; bands: The Ugly Dolls, The Songbirds, Spooky Tunes; Event Links: Carrd - https://wakewednesday.carrd.co/, Glam Contest - https://discord.gg/ZPpR7n3MQs, The Silver Duck - https://silverduck.carrd.co/, Broken Barrel - https://brokenbarrel.carrd.co/, Siren's Call - https://sirenscall.carrd.co/.
 
 
 Location:  	📍 ★ All Saint's Wake - Wednesday ★ Light DC ➨ Odin ➨ Shirogane ➜ W11 ☇ P49
