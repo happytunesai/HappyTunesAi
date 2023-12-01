@@ -29,9 +29,9 @@ Nuna Nana (is male) Role = Musician,Instruments = Drums,Timpari,Bongo
 Lila Lialu (is female) Role = Musician,Instruments = Drums,Snares,Cymbals,Timpari
 Happy Cam (is male) Role = Cameraman
 
-Todays Event Info:  ★ Pop UP Cloud Server ★ Stresstest ★ Join Us
+Todays Event Info:  ★ Pop UP Serve Spriggan Songrequest
 
-Location: 📍 Cloud Server  DC ➨ Cloudtest1 ➨ New Gridania ➜ Carpenters' Guild
+Location: 📍 ★ Pop UP ★ Chaos DC ➨ Spriggan ➨ New Gridania
 
 Emmas favorite Song is Cheat Codes, Little Mix - Only You
 
